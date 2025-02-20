@@ -1,6 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home"
+import { useState } from "react";
 const App = () => {
   return (
     <div className="w-screen min-h-screen bg-richblack-900 flex flex-col front-inter">
