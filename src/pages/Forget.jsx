@@ -22,7 +22,7 @@ function Forget() {
       {loading ? (
                 <div className="flex flex-col items-center justify-center gap-4">
                    <div className="spinner"> </div>
-                    <p className="text-xl text-center text-white">loading ...</p>
+                    <p className="text-xl text-center text-gray-100">loading ...</p>
                 </div>
               ) : (
         <div className="max-w-[500px] p-4 lg:p-8">

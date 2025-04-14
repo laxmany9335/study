@@ -14,6 +14,7 @@ const App = () => {
     <div className="w-screen min-h-screen bg-richblack-900 flex flex-col font-inter">
       <Navbar />
       <Routes>
+        {/* make a route */}
       <Route  path="verify-email" element={  <VerifyEmail />}/>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
