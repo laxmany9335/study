@@ -13,7 +13,7 @@ export function ResendEmail() {
     return (
         <div className='w-full min-h-[500px] flex justify-center items-center p-5'>
             <div className="w-[400px] flex flex-col justify-center gap-4">
-                <h1 className='text-2xl text-[#F1F2FF] font-bold'>Check Email</h1>
+                <h1 className='text-2xl text-[#F1F2FF] font-bold'>Check Email<sup className='text-red-500'>*</sup></h1>
                 <p className='text-[18px] text-[#AFB2BF]'>
                     We have sent the reset email to {email}
                 </p>
