@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node server/index.js",
-    "dev": "nodemon server/index.js",
-    "client": "npm run start --prefix client",
-    "client-build": "npm run build --prefix client",
-    "install-client": "npm install --prefix client",
-    "heroku-postbuild": "npm run client-build && npm run install-client"
+   "start": "react-scripts start",
+    "build": "react-scripts build",  // Ensure this line is present
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",
