@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js",
+    "client": "npm run start --prefix client", // Client side start script
+    "client-build": "npm run build --prefix client", // Build client-side React app
+    "install-client": "npm install --prefix client", // Install client dependencies
+    "heroku-postbuild": "npm run client-build && npm run install-client" // P
   },
   "keywords": [],
   "author": "",
