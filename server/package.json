@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node server/index.js",  
     "dev": "nodemon server/index.js",  
-    "build": "cd src && npm install && npm run build", 
+    "build": "npm install && npm run build", 
     "client": "npm run build",  
     "install-client": "npm install --prefix src",  
     "heroku-postbuild": "npm run build && npm run install-client" 
