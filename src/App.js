@@ -15,7 +15,7 @@ import MyProfile from "./components/core/Dashboard/MyProfile";
 import Dashboard from "./pages/Dashboard";
 import PrivateRoute from "./components/core/Auth/PrivateRoute";
 import Error from "./pages/Error"
-// import Settings from "./components/core/Dashboard/Settings";
+import Settings from "./components/core/Dashboard/Settings";
 import { useDispatch, useSelector } from "react-redux";
 // import EnrolledCourses from "./components/core/Dashboard/EnrolledCourses";
 // import Cart from "./components/core/Dashboard/Cart";
@@ -107,9 +107,9 @@ function App() {
       }
     >
       <Route path="dashboard/my-profile" element={<MyProfile />} />
-{/*       
+
       <Route path="dashboard/Settings" element={<Settings />} />
-      
+      {/*       
 
       {
         user?.accountType === ACCOUNT_TYPE.STUDENT && (
