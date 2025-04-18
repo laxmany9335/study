@@ -26,8 +26,9 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: [
-      "http://localhost:3000", // Allow HTTP
-      "https://localhost:3000" // Allow HTTPS
+      "http://localhost:3000", 
+      "https://localhost:3000",
+      "https://study12.vercel.app" // <-- apne frontend ka Vercel URL yahan add kar lena
     ],
     credentials: true,
   })
@@ -35,7 +36,7 @@ app.use(
 app.use(
   fileUpload({
     useTempFiles: true,
-    tempFileDir: "/tmp", // Ensure this directory exists or change path
+    tempFileDir: "/tmp",
   })
 );
 
@@ -49,7 +50,15 @@ app.use("/api/v1/profile", profileRoutes);
 app.use("/api/v1/course", courseRoutes);
 app.use("/api/v1/payment", paymentRoutes);
 
-// Default route
+// API v1 test route
+app.get("/api/v1", (req, res) => {
+  res.status(200).json({
+    success: true,
+    message: "API v1 is live 🚀",
+  });
+});
+
+// Default root route
 app.get("/", (req, res) => {
   return res.status(200).json({
     success: true,
@@ -57,7 +66,7 @@ app.get("/", (req, res) => {
   });
 });
 
-// Handle 404 for undefined routes
+// 404 handler
 app.use((req, res, next) => {
   res.status(404).json({
     success: false,
