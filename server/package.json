@@ -1,14 +1,15 @@
 {
-  "name": "fullstack-app",
+  "name": "server",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "start": "node server/index.js",  
-    "dev": "nodemon server/index.js",  
-    "build": "npm install && npm run build", 
-    "client": "npm run build",  
-    "install-client": "npm install --prefix src",  
-    "heroku-postbuild": "npm run build && npm run install-client" 
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cloudinary": "^2.5.1",
