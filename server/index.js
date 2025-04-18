@@ -28,7 +28,7 @@ app.use(
     origin: [
       "http://localhost:3000", 
       "https://localhost:3000",
-      "https://study12.vercel.app" // <-- apne frontend ka Vercel URL yahan add kar lena
+     " https://study-ashy-chi.vercel.app/"
     ],
     credentials: true,
   })
