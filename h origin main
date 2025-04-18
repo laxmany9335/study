@@ -1,0 +1,35 @@
+[33m8b1b029[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Revert package.json update commit Revert " package.json update"
+[33mf0829e1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m  package.json update
+[33m2ff6c9a[m Clean start with new folder structure
+[33m6593857[m settings page
+[33me035309[m Add .env to .gitignore and untrack it
+[33m376e89c[m Update package.json
+[33m372454b[m Update package.json
+[33mc9b8d08[m Update package.json
+[33m3bed974[m Update package.json
+[33me5ede07[m Update package.json
+[33mba97654[m Update package.json
+[33ma87fb76[m Update package.json
+[33mee52c83[m Update package.json
+[33me40a845[m Update package.json
+[33mdfe6875[m Update package.json
+[33m9aa37d0[m Update package.json
+[33m19b9645[m[33m ([m[1;32msetting[m[33m)[m Merge branch 'main' of https://github.com/laxmany9335/study
+[33m3a57b24[m  dashboard page contact us page and about page done
+[33m5dae827[m Update .env
+[33m581ffec[m Update .env
+[33mbb768d3[m Merge pull request #5 from laxmany9335/laxman/Navbar
+[33m21e34d4[m[33m ([m[1;31morigin/laxman/Navbar[m[33m)[m login and signup
+[33m1bb9035[m Merge pull request #4 from laxmany9335/laxman/Navbar
+[33mbbde152[m Merge branch 'main' into laxman/Navbar
+[33mdfbb504[m complete functionilty adding front to backend sign up login reset password verify password
+[33m68a1945[m Merge pull request #3 from laxmany9335/laxman/Navbar
+[33mc67661c[m completed navbar and signup and login page
+[33mecb1ac6[m Navbar and login & signup part are completed
+[33m99dd481[m Update README.md
+[33m03c786d[m Merge pull request #2 from laxmany9335/laxman/frontend/footer
+[33m1f2775b[m[33m ([m[1;31morigin/laxman/frontend[m[33m)[m footer section
+[33m918c4be[m Merge pull request #1 from laxmany9335/laxman/frontend
+[33m8c5c237[m add new  branch
+[33m8003646[m Upload file
+[33md650716[m Initial commit
