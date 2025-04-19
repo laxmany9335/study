@@ -21,22 +21,18 @@ const PORT = process.env.PORT || 4000;
 database.connect();
 
 // Middlewares
+app.use(cors({
+  origin: [
+    "https://study-12.onrender.com",
+  ],
+  credentials: true
+}));
 app.use(express.json());
 app.use(cookieParser());
-app.use(
-  cors({
-    origin: [
-     "https://studynotion-beryl-omega.vercel.app/"
-    ],
-    credentials: true,
-  })
-);
-app.use(
-  fileUpload({
-    useTempFiles: true,
-    tempFileDir: "/tmp",
-  })
-);
+app.use(fileUpload({
+  useTempFiles: true,
+  tempFileDir: "/tmp",
+}));
 
 // Cloudinary connect
 cloudinaryConnect();
