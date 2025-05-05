@@ -43,7 +43,7 @@ function SignupForm() {
 
     if (password !== confirmPassword) {
       toast.error("Passwords Do Not Match")
-      return
+      return ;
     }
     const signupData = {
       ...formData,
