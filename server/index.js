@@ -24,8 +24,8 @@ database.connect();
 app.use(cors({
   origin: [
     "https://study-12.onrender.com",
-    "https://studynotion-beryl-omega.vercel.app"
-    // "http://localhost:3000"
+    "https://studynotion-beryl-omega.vercel.app",
+    "http://localhost:3000"
   ],
   credentials: true
 }));

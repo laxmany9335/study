@@ -6,14 +6,14 @@ const { default: mongoose } = require("mongoose");
 exports.createRating = async(req,res) => {
      try{
         //get user id
-        const userId = req.user.body;
-
+        const userId = req.user?._id || req.user?.id;
+        console.log(userId)
         // fetch data from request ki body
-        const {rating, review, CourseId} = req.body;
-
+        const {rating, review, courseId} = req.body;
+          console.log(rating, review, courseId);
         //check if user is enrolled or not 
         const coursreDetails = await Course.findOne(
-            {_id: CourseId, 
+            {_id: courseId, 
                 studentsEnrolled: {$elemMatch: {$eq: userId}},
             });
 
@@ -27,7 +27,7 @@ exports.createRating = async(req,res) => {
         //check if user already reveiewed the course 
         const alreadyReviewed = await RatingAndReview.findOne(
                                                    {  user: userId,
-                                                    course: CourseId}
+                                                    course: courseId}
                                                   );
 
         if(alreadyReviewed){
@@ -41,11 +41,11 @@ exports.createRating = async(req,res) => {
         const ratingReview =  await RatingAndReview.create({
                                         rating, review, 
                                         user: userId,
-                                        course : CourseId, 
+                                        course : courseId, 
         });
         
         //update course with this rating and review 
-        const updatedCourseDetails = await Course.findByIdAndUpdate({_id: CourseId},
+        const updatedCourseDetails = await Course.findByIdAndUpdate({_id: courseId},
                                         {
                                             $push: {
                                                 ratingAndReviews: ratingReview._id,
@@ -75,7 +75,7 @@ exports.createRating = async(req,res) => {
 exports.getAverageRating = async(req, res) => {
     try{
         // get course  id
-        const courseId = req.body.CourseId;
+        const courseId = req.body.courseId;
 
         //calculate average rating
        const result = await RatingAndReview.aggregate([
