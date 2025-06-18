@@ -44,7 +44,7 @@ export default function VideoDetailsSidebar({ setReviewModal }) {
 
   return (
     <div
-      className={`absolute  top-15 left-0 z-50 flex flex-col border-r-[1px] border-r-richblack-700 bg-richblack-800 transition-transform duration-300 ${
+      className={`absolute  top-0 left-0 bottom-0 z-50 flex flex-col border-r-[1px] border-r-richblack-700 bg-richblack-800 transition-transform duration-300 ${
         isSidebarOpen ? "translate-x-0" : "-translate-x-full"
       }`}
     >
