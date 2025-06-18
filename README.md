@@ -6,35 +6,45 @@
 
 <h2>🚀 Demo</h2>
 
-<!-- [https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion\_so9ztx.mkv](https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion_so9ztx.mkv) -->
+[https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion\_so9ztx.mkv](https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion_so9ztx.mkv)
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555813/Screenshot_2024-12-29_030935_q0368t.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750253232/Screenshot_2025-06-18_185546_xijb9q.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555813/Screenshot_2024-12-30_160350_mwscsm.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750253233/Screenshot_2025-06-18_185605_x4ahs7.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555814/Screenshot_2024-12-30_160401_yxhudy.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750253233/Screenshot_2025-06-18_185630_z4ntl3.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555811/Screenshot_2024-12-30_160518_mciwrn.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750253232/Screenshot_2025-06-18_185648_szugkv.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555813/Screenshot_2024-12-30_160535_gxwhjb.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750253048/Screenshot_2025-06-18_185352_ds3um8.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555814/Screenshot_2024-12-30_160641_msgxyu.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251005/Screenshot_2025-06-18_181757_hyj9i3.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555813/Screenshot_2024-12-30_160711_otsy2n.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252784/Screenshot_2025-06-18_184926_dtdrcz.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555814/Screenshot_2024-12-30_160746_dv24v7.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252413/Screenshot_2025-06-18_184306_qhlmqv.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555815/Screenshot_2024-12-30_160920_zivg0g.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252542/Screenshot_2025-06-18_184521_zz9xjp.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555815/Screenshot_2024-12-30_160945_x6zek2.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252654/Screenshot_2025-06-18_184713_qr5nxk.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555815/Screenshot_2024-12-30_160841_k0abwe.png" alt="project-screenshot" width="1024" height="500/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252243/Screenshot_2025-06-18_183949_qhamuy.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555815/Screenshot_2024-12-30_160958_i2wbxc.png" alt="project-screenshot" width="1024" height="400/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252244/Screenshot_2025-06-18_184021_vqq2zc.png" alt="project-screenshot" width="1024" height="500/">
 
-<img src="https://res.cloudinary.com/dfvs0kijp/image/upload/v1735555815/Screenshot_2024-12-30_161015_fytnc2.png" alt="project-screenshot" width="1024" height="400/">
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251230/Screenshot_2025-06-18_182137_yqjs0a.png" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251463/Screenshot_2025-06-18_182659_imrv5p.png" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251597/Screenshot_2025-06-18_182904_emifg6.png" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251781/Screenshot_2025-06-18_183114_asz0kq.png" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750251834/Screenshot_2025-06-18_183206_ceprlu.png" width="1024" height="500/">
+
+<img src="https://res.cloudinary.com/dldqazzuq/image/upload/v1750252888/Screenshot_2025-06-18_185110_en17x8.png" alt="project-screenshot" width="1024" height="500/">
 
   
   
