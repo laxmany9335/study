@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion\_so9ztx.mkv](https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion_so9ztx.mkv)
+<a href="https://studynotion-beryl-omega.vercel.app/"/>
 
 <h2>Project Screenshots:</h2>
 
